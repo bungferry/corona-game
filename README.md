@@ -1,4 +1,4 @@
-## t-rex-runner
+## corona-runner
 
 the trex runner game extracted from chrome offline err page.
 
